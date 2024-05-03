@@ -1,2 +1,2 @@
 # EnglishWordFreqStat
-A word frequency statistic for English words。
+A word frequency statistic for English words.
